@@ -1,0 +1,7 @@
+- Why two output fibers? To check movements?
+- Support material
+
+11.01.2023
+- Giovanna will provide CAD Rays tracing
+- Redo Fig. 2b,2c,2d
+- Redo Fig. 4 with CADs (Giovanna will notify has when she will share with us these data)
